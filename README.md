@@ -1,12 +1,8 @@
-# Megabus
-
-# Team name:  Snowplows
-![alt text](https://image.shutterstock.com/image-vector/snowman-hat-scarf-isolated-on-260nw-1193297350.jpg)
-
+# Megabus- UX student collaboration 
 
 ## Project Description
 
-A redesigned megabus app that highlights a help funtion so the user can  reach out to customer support, track my bus, and get help in an easy manner. The user will be prompted to book a trip on the home back with a user friendly input propt
+A redesigned megabus app that highlights a help funtion so the user can  reach out to customer support, track my bus, and get help in an easy manner. The user will be prompted to book a trip on the home back with a user friendly input propt.
 
 ## Wireframes
 
@@ -82,32 +78,6 @@ Sample JSON from GET `/api/users`
   ```
 
 
-## React Component Hierarchy
-
-![alt text](https://res.cloudinary.com/rachelml/image/upload/v1581707503/IMG_9975_armcfa.jpg)
-
-
-## Components
-
-Breakdown the initial logic defined in the previous sections into stateful and stateless components
-
-| Component | Description | 
-| --- | :--- |
-| Nav |functional |
-| App.js  | class | 
-| Booking | functional  |
-| Trips | functional |
-| Map   | functional |
-
-post MVP
-| notifications   | functional |
-| going green   | functional |
-
-
-## Priority Matrix
-
-Render your project priority matrix here
-
 ## Timeframes
 
 Estimate the amount of time your team expects to spend on each area of your app
@@ -145,16 +115,4 @@ routing
 **ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
 **RESOLUTION**: Missing comma after first object in sources {} object
 
-## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
-
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
-
-## Change Log
-
-Update as neccessary with any changes or directional adjustments made throughout the project week
